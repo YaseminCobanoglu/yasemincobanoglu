@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasemin Çobanoğlu</h1>
+<h1 align="center">Hi 👋, I'm Yasemin </h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
